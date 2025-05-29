@@ -90,7 +90,7 @@ com código reutilizável para futuras análises no Power BI;
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 02/04/2025 | concluída | [MVP](https://) | 
-|02|  23/04/2025 | a fazer|[MVP](https://) | 
-|03| 14/05/2025 | a fazer|[MVP](https://) | 
-|04| 25/06/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+|02|  23/04/2025 | concluída |[MVP](https://) | 
+|03| 04/06/2025 | a fazer|[MVP](https://) | 
+|04| 17/06/2025 | a fazer |[MVP](https://)  | 
+|Feira de Soluções|17/06/2025 |a fazer |[MVP](https://) | 
